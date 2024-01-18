@@ -1,2 +1,3 @@
 # Gendered-AV-Designs-Women-Safety
-This poster was presented in the Graphics Interface 2023 conference and won *Best Poster Award*.
+This poster was presented at the Graphics Interface 2023 conference and won the *Best Poster Award*.
+Women and girls in the Global South face significant safety risks (e.g., sexual harassment and assault) when using public transportation, which is a barrier to women's mobility. We believe autonomous vehicles (AVs) have the potential to address these challenges by providing a safe and efficient means of transportation. We aim to study female passengers' attitudes and preferences towards AVs, considering the cultural and contextual factors in Bangladesh. Based on the findings, we will present inclusive human-machine interfaces (HMIs) that address their unique needs to bring women safety in daily transportation.
